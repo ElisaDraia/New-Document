@@ -49,4 +49,11 @@ It will be done by generating periodic reports that reflect the current status o
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
 - Enter test condition here
-- 
+
+### 1.4 Test Design
+
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
+
+**Test cases:** -> enter here test cases or at least the titles
+
+The test cases with steps can be viewed here: 
