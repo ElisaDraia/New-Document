@@ -14,7 +14,7 @@ Tool used:
 
 ### 1 Testing section 
 
-#### 1.1 Test Planning
+### 1.1 Test Planning
 
 The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application.
 
