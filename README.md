@@ -78,4 +78,4 @@ The following elements are needed to be ready before the test execution phase be
 
 -> enter here test execution report/chart
 
-## SQL section
+## 2 SQL section
