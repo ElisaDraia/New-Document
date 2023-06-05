@@ -5,4 +5,4 @@ Application under test:
 
 API Document
 
-**The final project will be split into 2 sections: 
+**The final project will be split into 2 sections:** 
