@@ -26,8 +26,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **1.1.3 Exit criteria defined**
 
-**1.1.4 Test scope**
+**1.1.4 Test scope
 
-**- Tests in scope:**
+- Tests in scope:
 
-**- Test not in scope:**
+- Test not in scope:**
