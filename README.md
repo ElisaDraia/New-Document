@@ -1,4 +1,4 @@
-## Final project for ITF Manual Testing Course level 2
+# Final project for ITF Manual Testing Course level 1
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practise, using a live application.
 
@@ -10,6 +10,6 @@ API Documentation:
 
 Tool used:
 
-### Functional specifications level 3
+#### Functional specifications level 4
 
-##### 1 Testing section level 5
+### 1 Testing section level 3
