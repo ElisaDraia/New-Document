@@ -36,7 +36,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 - Project risks:                                                                                                           
 - Product risks:
 
-**1.1.6 Evaluating entry criteria
+**1.1.6 Evaluating entry criteria**
 
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
@@ -57,3 +57,25 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 **Test cases:** -> enter here test cases or at least the titles
 
 The test cases with steps can be viewed here: 
+
+### 1.5 Test Implementation
+
+The following elements are needed to be ready before the test execution phase begins:
+
+- enter here what needs to be ready for the test execution to begin
+
+### 1.6 Test Execution
+
+- Test cases are executed on the created test Cycle summary:                                                                
+- Bugs have been created based on the failed tests. The complete bug reports can be found here:                             
+    - enter here bug titles
+
+### 1.7 Test Completion
+
+- Exit criteria was evaluated and passed                                                                                    
+- The traceability matrix was generated and can be founded here:                                                              
+- The execution chart was generated, the final report shows.... -> describe the final report
+
+-> enter here test execution report/chart
+
+## SQL section
