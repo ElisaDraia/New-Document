@@ -67,7 +67,7 @@ The following elements are needed to be ready before the test execution phase be
 ### 1.6 Test Execution
 
 - Test cases are executed on the created test Cycle summary:                                                                
-- Bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/julai215/itf_manual_testing_final_project_template/blob/main/Final%20Project                            
+- Bugs have been created based on the failed tests. The complete bug reports can be found here:https://github.com/julai215/itf_manual_testing_final_project_template/blob/main/Final%20Project                                             
     - enter here bug titles
 
 ### 1.7 Test Completion
