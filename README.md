@@ -78,7 +78,7 @@ The following elements are needed to be ready before the test execution phase be
 ### 1.7 Test Completion
 
 - Exit criteria was evaluated and passed                                                                                    
-- The traceability matrix was generated and can be founded here: https://github.com/julai215/itf_manual_testing_final_project_template/blob/main/Final%20Project                                                              
+- The traceability matrix was generated and can be founded here:                                                                                                                                                                                                 
 - The execution chart was generated, the final report shows.... -> describe the final report
 
 -> enter here test execution report/chart
