@@ -22,12 +22,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **1.1.1 Roles assigned to the project and persons allocated**
 
-- Project manager - Andrei Andrei
-
-- Product owner - Maria Ionescu
-
-- Software developer - Ion Tomescu
-
+- Project manager - Andrei Andrei                                                                                                                                                                                               
+- Product owner - Maria Ionescu                                                                                                         
+- Software developer - Ion Tomescu                                                                                              
 - QA Engineer - Elisa Draia
 
 **1.1.2 Entry criteria defined**
