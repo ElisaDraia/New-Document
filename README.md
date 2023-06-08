@@ -6,9 +6,9 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
-**The final project will be split into 2 sections:** 
+**The final project will be split into 2 sections:** - probably only one section
 
-Tool used:
+Tool used: JIRA, Zephyr Squad
 
 # Functional specifications 
 
