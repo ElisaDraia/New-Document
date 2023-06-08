@@ -67,7 +67,8 @@ The test cases with steps can be viewed here:
 
 The following elements are needed to be ready before the test execution phase begins:
 
-- enter here what needs to be ready for the test execution to begin
+- Testing environment is up and running: https://opensource-demo.orangehrmlive.com/                                                                                                                                             
+- Access to the testing environment is given: Username : Admin | Password : admin123
 
 ### 1.6 Test Execution
 
