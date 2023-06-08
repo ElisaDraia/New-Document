@@ -12,6 +12,11 @@ Tool used: JIRA, Zephyr Squad
 
 # Functional specifications 
 
+The below Story was created in JIRA and describes the functional specifications of the Leave module, for which the final project is performed upon.
+
+![image](https://github.com/ElisaDraia/New-Document/assets/135149908/71ef0836-de24-43c4-a107-9dbc50f77cde)
+
+
 ## 1 Testing section 
 
 ### 1.1 Test Planning
